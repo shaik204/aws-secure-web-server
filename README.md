@@ -1,6 +1,5 @@
 # aws-secure-web-server
 
-# aws-secure-web-server
 
 A small, secure web server on AWS EC2 with monitoring and cost controls. Built to learn the basics of AWS operations, then fully deleted at the end so nothing keeps costing money.
 
